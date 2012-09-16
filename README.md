@@ -1,6 +1,8 @@
 
 Demo for [KidsCodeCamp at RailsConf 2012](https://github.com/kidscodecamp/railsconf2012/wiki)
 
+Hi! - Jeff's change
+
 Quick game to shoot a rubber duck.  Illustrates a number of iOS programming features.
 
 Basic outline:
